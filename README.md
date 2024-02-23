@@ -5,4 +5,7 @@ A simple clone of the terminal game called [Hunt the Wumpus](https://www.atariar
 
 There are some online versions, eg this one on [oscric.com](https://osric.com/wumpus/).
 
+<p align="center">
+  <img height="200" src="./demo.png">
+</p>
 
